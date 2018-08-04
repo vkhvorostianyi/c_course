@@ -1,4 +1,5 @@
-loop_ex
-buble_ex
-lib_ex/main
-*.o
+
+
+*
+!*.c
+!lib_ex/make
